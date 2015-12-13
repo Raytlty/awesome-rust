@@ -440,6 +440,7 @@ See also [http://arewewebyet.com/](http://arewewebyet.com/) and [Rust web framew
 * [WebSocket](http://datatracker.ietf.org/doc/rfc6455/)
   * [cyderize/rust-websocket](https://github.com/cyderize/rust-websocket) — a framework for dealing with WebSocket connections (both clients and servers) [<img src="https://travis-ci.org/cyderize/rust-websocket.svg?branch=master">](https://travis-ci.org/cyderize/rust-websocket)
   * [housleyjk/ws-rs](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets for Rust [<img src="https://travis-ci.org/housleyjk/ws-rs.svg?branch=stable">](https://travis-ci.org/housleyjk/ws-rs)
+  * [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) — Coroutine I/O with work-stealing scheduler [<img src="https://travis-ci.org/zonyitoo/coio-rs.svg?branch=master">](https://travis-ci.org/zonyitoo/coio-rs)
 
 ## Resources
 
